@@ -1,6 +1,5 @@
-package com.codewithmosh;
+package com.codewithmosh.iterable;
 
-import java.util.ArrayList;
 import java.util.Iterator;
 
 public class GenericList<T> implements Iterable<T> {
